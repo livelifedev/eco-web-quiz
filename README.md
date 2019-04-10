@@ -1,0 +1,1 @@
+After a week of learning to code using online resources, this was my first project to apply what I had learned. It is a web quiz built with HTML, CSS, JavaScript. The questions used where just gotten off google.
